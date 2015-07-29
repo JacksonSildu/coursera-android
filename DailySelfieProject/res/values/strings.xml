@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DailySelfieProject</string>
+    <string name="action_camera">Camera</string>
+    <string name="selfie_image_desc_string">Selfie Image</string>
+
+</resources>

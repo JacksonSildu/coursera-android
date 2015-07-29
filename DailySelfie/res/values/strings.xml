@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_clear">Clear All</string>
+    <string name="selfie_image_desc_string">Selfie Image</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
